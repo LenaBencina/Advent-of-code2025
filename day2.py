@@ -28,5 +28,5 @@ def get_sum_of_invalid_ids(file_path: str) -> int:
     return sum(invalid_ids1), sum(invalid_ids2)
 
 
-print(get_sum_of_invalid_ids("input_day2_example.txt"))
-print(get_sum_of_invalid_ids("input_day2.txt"))
+print(get_sum_of_invalid_ids("inputs/input_day2_example.txt"))
+print(get_sum_of_invalid_ids("inputs/input_day2.txt"))

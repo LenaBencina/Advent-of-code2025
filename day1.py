@@ -29,7 +29,7 @@ def get_number_of_zeros(file_path: str) -> int:
 
     return zeros_count2
 
-print(get_number_of_zeros("input_day1_example.txt"))
-print(get_number_of_zeros("input_day1.txt"))
+print(get_number_of_zeros("inputs/input_day1_example.txt"))
+print(get_number_of_zeros("inputs/input_day1.txt"))
 
 
